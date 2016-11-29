@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PureunJeonnam';
+    font-weight: 500;
+    src: url('../dist/PureunJeonnam.woff') format('woff');
+}
+@font-face {
+    font-family: 'PureunJeonnam';
+    font-weight: 700;
+    src: url('../dist/PureunJeonnam-Bold.woff') format('woff');
+}

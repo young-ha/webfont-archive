@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'BareunDotum';
+    font-weight: 300;
+    src: url('../dist/BareunDotum1.woff') format('woff');
+}
+@font-face {
+    font-family: 'BareunDotum';
+    font-weight: 400;
+    src: url('../dist/BareunDotum2.woff') format('woff');
+}
+@font-face {
+    font-family: 'BareunDotum';
+    font-weight: 700;
+    src: url('../dist/BareunDotum3.woff') format('woff');
+}

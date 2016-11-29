@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Youth';
+    font-weight: 400;
+    src: url('../dist/Youth.woff') format('woff');
+}

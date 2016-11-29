@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Arita-Thin';
+    font-weight: 100;
+    src: url('../dist/Arita-dotum-Thin.woff') format('woff');
+}
+@font-face {
+    font-family: 'Arita-dotum';
+    font-weight: 300;
+    src: url('../dist/Arita-dotum-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Arita-dotum';
+    font-weight: 500;
+    src: url('../dist/Arita-dotum-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Arita-dotum';
+    font-weight: 600;
+    src: url('../dist/Arita-dotum-SemiBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Arita-dotum';
+    font-weight: 700;
+    src: url('../dist/Arita-dotum-Bold.woff') format('woff');
+}

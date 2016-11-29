@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'HANBatang';
+    font-weight: 500;
+    src: url('../dist/HANBatang.woff') format('woff');
+}
+@font-face {
+    font-family: 'HANBatang';
+    font-weight: 700;
+    src: url('../dist/HANBatangB.woff') format('woff');
+}

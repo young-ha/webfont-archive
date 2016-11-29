@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Arita-buri';
+    font-weight: 100;
+    src: url('../dist/Arita-buriHL.woff') format('woff');
+}
+@font-face {
+    font-family: 'Arita-buri';
+    font-weight: 300;
+    src: url('../dist/Arita-buriL.woff') format('woff');
+}
+@font-face {
+    font-family: 'Arita-buri';
+    font-weight: 500;
+    src: url('../dist/Arita-buriM.woff') format('woff');
+}
+@font-face {
+    font-family: 'Arita-buri';
+    font-weight: 600;
+    src: url('../dist/Arita-buriSB.woff') format('woff');
+}
+@font-face {
+    font-family: 'Arita-buri';
+    font-weight: 700;
+    src: url('../dist/Arita-buriB.woff') format('woff');
+}

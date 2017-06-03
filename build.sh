@@ -1,6 +1,5 @@
 #!/bin/bash
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-pip install fonttools
 mkdir -p $DIR/dist
 for p in $DIR/source/*.*; do
   filename=$(basename "$p")

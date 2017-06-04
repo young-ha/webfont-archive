@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'SourceHanSerifK';
+    font-weight: 100;
+    src: url('../dist/SourceHanSerifK-ExtraLight.woff') format('woff');
+}
+@font-face {
+    font-family: 'SourceHanSerifK';
+    font-weight: 200;
+    src: url('../dist/SourceHanSerifK-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'SourceHanSerifK';
+    font-weight: 400;
+    src: url('../dist/SourceHanSerifK-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'SourceHanSerifK';
+    font-weight: 500;
+    src: url('../dist/SourceHanSerifK-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'SourceHanSerifK';
+    font-weight: 600;
+    src: url('../dist/SourceHanSerifK-SemiBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'SourceHanSerifK';
+    font-weight: 700;
+    src: url('../dist/SourceHanSerifK-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'SourceHanSerifK';
+    font-weight: 900;
+    src: url('../dist/SourceHanSerifK-Heavy.woff') format('woff');
+}

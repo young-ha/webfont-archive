@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Godo-name';
+    font-weight: 400;
+    src: url('../dist/names/GodoM-name.woff') format('woff');
+}

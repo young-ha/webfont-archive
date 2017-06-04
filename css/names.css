@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'Arita-buri-name';
+    font-weight: 400;
+    src: url('../dist/names/Arita-buriM-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'Arita-dotum-name';
+    font-weight: 400;
+    src: url('../dist/names/Arita-dotum-Medium-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'BareunBatang-name';
+    font-weight: 400;
+    src: url('../dist/names/BareunBatangL-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'BareunDotum-name';
+    font-weight: 400;
+    src: url('../dist/names/BareunDotum1-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'Godo-name';
+    font-weight: 400;
+    src: url('../dist/names/GodoM-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'HANBatang-name';
+    font-weight: 500;
+    src: url('../dist/names/HANBatang-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'HANDotum-name';
+    font-weight: 400;
+    src: url('../dist/names/HANDotum-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'Hankyoreh-name';
+    font-weight: 400;
+    src: url('../dist/names/Hankyoreh-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'IropkeBatang-name';
+    font-weight: 400;
+    src: url('../dist/names/IropkeBatangM-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'NanumBarunGothic-name';
+    font-weight: 400;
+    src: url('../dist/names/NanumBarunGothic-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'NanumGothic-name';
+    font-weight: 400;
+    src: url('../dist/names/NanumGothic-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'NanumMyeongjo-name';
+    font-weight: 400;
+    src: url('../dist/names/NanumMyeongjo-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'NanumSquare-name';
+    font-weight: 400;
+    src: url('../dist/names/NanumSquareRegular-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'NotoSansCJKkr-name';
+    font-weight: 400;
+    src: url('../dist/names/NotoSansCJKkr-Regular-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'PureunJeonnam-name';
+    font-weight: 400;
+    src: url('../dist/names/PureunJeonnam-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'SHMyungjo-name';
+    font-weight: 400;
+    src: url('../dist/names/SHMyungjo110-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'SourceHanSerifK-name';
+    font-weight: 400;
+    src: url('../dist/names/SourceHanSerifK-Regular-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'SpoqaHanSans-name';
+    font-weight: 400;
+    src: url('../dist/names/SpoqaHanSansRegular-name.woff') format('woff');
+}
+@font-face {
+    font-family: 'Youth-name';
+    font-weight: 400;
+    src: url('../dist/names/Youth-name.woff') format('woff');
+}
